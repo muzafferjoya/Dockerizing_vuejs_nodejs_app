@@ -1,7 +1,7 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "description": "example project react with nodejs",
+  "description": "vuejs app",
   "main": "server.js",
   "scripts": {
     "start": "node server.bundle.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbachi/vuejs-nginx-docker.git"
+    "url": "git+https://github.com/muzafferjoya/Dockerizing_vuejs_nodejs_app.git"
   },
-  "author": "Bhargav Bachina",
+  "author": "Muzaffar khan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bbachi/vuejs-nginx-docker/issues"
+    "url": "https://github.com/muzafferjoya/Dockerizing_vuejs_nodejs_app.git/issues"
   },
-  "homepage": "https://github.com/bbachi/vuejs-nginx-docker#readme",
+  "homepage": "https://github.com/muzafferjoya/Dockerizing_vuejs_nodejs_app.git#readme",
   "dependencies": {
     "express": "^4.17.1",
     "http-proxy-middleware": "^1.0.4",
